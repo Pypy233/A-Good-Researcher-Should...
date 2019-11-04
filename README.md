@@ -1,4 +1,4 @@
-# A Good-Researcher Should
+# A Good-Researcher Should ...
 
 
 
@@ -16,4 +16,3 @@ This problem makes confused for quite a long time. I got advice from some profes
 ## Start from scratch
 
 Joining a project and starting from scratch is common but difficult. You take lead of whole project and make important judgements. Then you will evaluate your thoughts and change directions and make it run smoothly. You may enjoy the achievements or simply  take the blame for our failure. 
-
